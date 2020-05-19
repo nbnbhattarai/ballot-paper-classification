@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+#emacs temp files
+*~
+*#*
+*#*#
+
+# ignore logs folder
+# logs/
+#
+# The backupfile
+*.backup
+
+env/
+env/*.env/*
+emotion_raw.txt
